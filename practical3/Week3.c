@@ -4,8 +4,7 @@
 int main()
 {
 float a = 0.0;
-float pi = 3.14159265358979323846;
-float b = pi/3;
+float b = M_PI/3;
 printf("b value is %f\n", b);
 float loop = b/11;
 float output;
