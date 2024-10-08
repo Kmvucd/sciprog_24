@@ -18,7 +18,7 @@ float x = (i*loop);
 sum = sum + 2*(tan (x));
 printf("i value is %d\n", i);
 }
-mul = (b)/(2*11);
+mul = b/(2*11);
 output = mul * sum;
 printf("Output from formula is %f\n", output);
 printf("Log of 2 value is %f\n", log(2));
