@@ -1,9 +1,6 @@
 # Practical 4
-
-The source file is attached below.
-
-Source file name is Week4.c
-This includes function calling, array definition to derive.
+This practical includes calculating trapezoidal rule but this time using arrays, function calls and loops.
+The source file name is Week4.c
 
 ## Compile
 
