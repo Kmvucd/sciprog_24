@@ -5,10 +5,10 @@ void fib(int *x, int *y);
 int main()
 {
 int a, f0 = 0, f1 = 1;
-
+// Enter value of n
 printf("Enter the value: ");
 scanf("%d",&a);
-
+//printing first 2 values
 if (a == 0)
 {
 printf("Fibonacci series is %d",f0);
