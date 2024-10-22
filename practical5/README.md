@@ -11,9 +11,11 @@ Source file name is given below:
 ## Compile
 
 gcc -o fib fib.c -lm
+
 gcc -o hyp hyp.c -lm
 
 ## Execute
 
 ./fib
+
 ./hyp
