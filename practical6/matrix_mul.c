@@ -36,7 +36,7 @@ for (int i = 0; i<n; i++)
 {
 for (int j = 0; j<q; j++)
 {
-C[i][j] = 0;
+C[i][j] = 0.0;
 }
 }
 matmul(A,B,C);
