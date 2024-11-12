@@ -1,5 +1,5 @@
 # include <stdio.h>
-// Function to calculate gcd using recursive approach
+// Function to define gcd in recursive approach
 int gcd(int a,int b)
 {
 if (b == 0)
@@ -14,13 +14,13 @@ return gcd(b, a%b);
 
 int main()
 {
-int a, b;
-printf("Enter value of a:");//Declaring a variable
+int a, b;// Declaring variables
+printf("Enter value of a:");
 scanf("%d",&a);
-printf("Enter value of b:"); //Declaring b variable
+printf("Enter value of b:");
 scanf("%d",&b);
 int result ; 
-result = gcd(a,b); // calling gcd function
+result = gcd(a,b);//Calling gcd using recursion
 printf("GCD is %d",result);
 
 }
