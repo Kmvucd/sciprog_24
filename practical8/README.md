@@ -1,4 +1,4 @@
-# Practical 7
+# Practical 8
 
 The source file is attached below.
 This includes solving gcd of two numbers using iterative and recursive approach.
