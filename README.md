@@ -19,16 +19,16 @@ Please find breakdown of the branch structure:
 
 It contains the README.md file and general documentation.
 
-### Practical Branches: Each practicals has its own branch, labeled as practical<number>. 
+### Practical Branches: 
+
+Each practicals has its own branch, labeled as practical<number>. 
 These branches contain the source code files for each specific practicals, coded in C language.
 A README.md file detailing how to compile, run, and verify the code.
 
-For example:
-
-practical-3
+For example: Practical-3
 
 README.md (Descriptions and Instructions of questions for practical 2)
-main.c (Code for practicals 2)
+main.c (Code for practical 2)
 
 ### How to Run Each Practical:
 
