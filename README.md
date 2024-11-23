@@ -15,9 +15,11 @@ I have created a separate branch for each weekly practicals and placed on a sepa
 
 Please find breakdown of the branch structure:
 
-### Main Branch: It contains the README.md file and general documentation.
+### Main Branch: 
 
-Practical Branches: Each practicals has its own branch, labeled as practical<number>. 
+It contains the README.md file and general documentation.
+
+### Practical Branches: Each practicals has its own branch, labeled as practical<number>. 
 These branches contain the source code files for each specific practicals, coded in C language.
 A README.md file detailing how to compile, run, and verify the code.
 
@@ -30,7 +32,7 @@ main.c (Code for practicals 2)
 
 ### How to Run Each Practical:
 
-Each README.md file within the practical branches provides detailed instructions on how to:
+Each README.md file within the practical branches provides detailed instructions:
 
 Compile the code using gcc (GNU Compiler Collection).
 Run the executable.
