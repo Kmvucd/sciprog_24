@@ -28,12 +28,21 @@ A README.md file detailing how to compile, run, and verify the code.
 For example: Practical-3
 
 README.md (Descriptions and Instructions of questions for practical 2)
+
 main.c (Code for practical 2)
 
 ### How to Run Each Practical:
 
 Each README.md file within the practical branches provides detailed instructions:
 
+#### Compilation: 
+
 Compile the code using gcc (GNU Compiler Collection).
+
+#### Execution:
+
 Run the executable.
+
+#### Verification:
+
 Verify the output against the expected results.
