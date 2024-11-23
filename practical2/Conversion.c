@@ -34,8 +34,9 @@ int main(void) {
 printf("The number of digits is %d\n",numdigits);
 printf("inum=%d,  fnum=%f, inum in binary=%s\n",
       inum,fnum,binnum);
+
 }
-/
+
 
 
 

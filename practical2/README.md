@@ -1,22 +1,22 @@
-# Practical 02
+# Practical 2
 
-The source codes for the practical 2 is listed in the path.
+The source file is attached below.
+This includes finding Sum and Conversion of numbers.
+Steps on how to compile and execute code is given below.
 
-The file names are,
+Source file name is 
 
-1. Sum.c
-2. Conversion.c
+Sum.c
+Conversion.c
 
 ## Compile
 
-gcc -o Sumc Sum.c
+gcc -o Sum Sum.c -lm
 
-gcc -o Conversionc Conversion.c
+gcc -o Conversion Conversion.c -lm
 
 ## Execute
 
-./Sumc
+./Sum
 
-./Conversionc
-
-
+./Conversion
